@@ -1,0 +1,2 @@
+textual>=0.70,<2
+pyautogui>=0.9.54
